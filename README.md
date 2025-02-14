@@ -6,5 +6,5 @@
 
 # RN
 - [X] A transação pode ser do tipo crédito ou débito;
-- [ ] Deve ser possivel identificar o usuário entre as requisições;
-- [ ] O usuário só pode visualizar as transações que pertencem a ele;
+- [X] Deve ser possivel identificar o usuário entre as requisições;
+- [X] O usuário só pode visualizar as transações que pertencem a ele;
